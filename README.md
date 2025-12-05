@@ -1,1 +1,1 @@
-# coffee-shop-sales-project
+# Coffie-Shop-Sales
